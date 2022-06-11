@@ -2,15 +2,9 @@
 
 本次作业使用LSB方法将一张200x250的数字图像水印隐藏到了另一张640x640的载体图像中。
 
-两张图像如下：
-
+两张图像在目录中，
 - 载体图像：carrier.png
-
-![carrier](./carrier.png)
-
 - 水印图像watermark.png
-
-![watermark](./watermark.png)
 
 程序说明：
 
