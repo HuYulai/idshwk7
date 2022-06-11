@@ -6,11 +6,11 @@
 
 - 载体图像：carrier.png
 
-![carrier](D:\File\Sharefile\carrier.png)
+![carrier](./carrier.png)
 
 - 水印图像watermark.png
 
-![watermark](D:\File\Sharefile\watermark.png)
+![watermark](./watermark.png)
 
 程序说明：
 
